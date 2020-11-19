@@ -11,6 +11,8 @@ redirect_from:
 I am a graduate student in applied mathematics at [University of California, Davis](https://www.math.ucdavis.edu/). My research focuses on computational geometry and topology. I have been working on applying [conformalized mean curvature flow](https://doi.org/10.1111/j.1467-8659.2012.03179.x) to obtain conformal parametrizations of surfaces. My work is part of a larger project on [shape comaprison](https://doi.org/10.1098/rsif.2015.0795). I am fortunate to be advised by [Joel Hass](https://www.math.ucdavis.edu/~hass/) and [Patrice Koehl] (https://www.cs.ucdavis.edu/~koehl/index.html).
 
 In parallel, I have been working as a student intern on 3-D electron temperature measurement and x-ray emission tomography of nuclear fusion hotspot at the [National Ignition Facility](https://lasers.llnl.gov) in the [Lawrence Livermore National Laboratory](https://www.llnl.gov) since December 2019. This project enables me to immerse myself in the field of [high energy density science](https://heds-center.llnl.gov). 
+
+My contact is < ucdwong [at] ucdavis [dot] edu >.
  
 Biography
 ======
