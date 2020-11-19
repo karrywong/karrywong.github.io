@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Karry Wong"
   avatar           : "profile.png"
-  bio              : "PhD candidate in computational geometry at UC Davis\n Intern at LLNL, working in limited view tomography focused on 3D nuclear fusion hotspot reconstruction"
+  bio              : "PhD candidate in computational geometry at UC Davis; Intern at LLNL, working in limited view tomography focused on 3D nuclear fusion hotspot reconstruction"
   location         : "Davis, California"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "karry-wong"
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
