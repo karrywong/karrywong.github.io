@@ -88,7 +88,7 @@ author:
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?authuser=1&user=17q2N-EAAAAJ"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Ka_Wai_Wong"
   uri              :
   bitbucket        :
   codepen          :
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : "https://www.youtube.com/channel/UC9LHf0D7yJsdSkRjFJKdk2g/"
+  youtube          : #"https://www.youtube.com/channel/UC9LHf0D7yJsdSkRjFJKdk2g/"
   wikipedia        :
 
 
