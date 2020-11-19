@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Available in PDF format.](https://karrywong.github.io/files/resume_kawaiWONG.pdf)
+
 <!-- Education
 ======
 * B.S. in GitHub, GitHub University, 2012
