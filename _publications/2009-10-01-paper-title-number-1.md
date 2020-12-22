@@ -11,4 +11,3 @@ citation: 'K. Wong, Application of mean curvature flow for surface parametrizati
 This paper is about the number 1. The number 2 is left for future work.
 
 [Full paper here](https://arxiv.org/abs/2006.07392)
-# Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
