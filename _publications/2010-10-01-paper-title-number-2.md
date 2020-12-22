@@ -1,15 +1,13 @@
 ---
-title: "Paper Title Number 2"
+title: "Conformal Parametrization of Surfaces of Genus Zero and 3D Reconstruction of Nuclear Fusion Hotspots"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
+permalink: /publication/Conformal_Parametrization_of_Surfaces_of_Genus_Zero_and_3D_Reconstruction_of_Nuclear_Fusion_Hotspots
+excerpt: 'The first part of this thesis is to study a modified version of mean curvature flow, the "conformalized mean curvature flow" (cMCF), developed by Kazhdan, Solomon, and Ben-Chen. The cMCF is a conformal mapping algorithm but it runs into numerical issues when it is applied on meshes with protrusions. We improve the cMCF with an initialization step which first maps the initial mesh onto a sphere. This initialization step is shown to improve the performance of cMCF such that it can be applied on meshes with long protrusions. Also, we investigate a different discretization of the Laplace-Beltrami operator involved in the cMCF that can potentially enhance its performance. More importantly, we give a new algorithm named "Sphericalized cMCF" to construct a homotopy from a degree one map to a homeomorphism from a unit sphere onto a unit sphere.'
+date: 2020-12-01
+venue: 'University of California, Davis'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+citation: 'Ka Wai Wong, Conformal Parametrization of Surfaces of Genus Zero and 3D Reconstruction of Nuclear Fusion Hotspots, UC Davis Dissertation, 2020'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+The first part of this thesis is to study a modified version of mean curvature flow, the "conformalized mean curvature flow" (cMCF), developed by Kazhdan, Solomon, and Ben-Chen. The cMCF is a conformal mapping algorithm but it runs into numerical issues when it is applied on meshes with protrusions. We improve the cMCF with an initialization step which first maps the initial mesh onto a sphere. This initialization step is shown to improve the performance of cMCF such that it can be applied on meshes with long protrusions. Also, we investigate a different discretization of the Laplace-Beltrami operator involved in the cMCF that can potentially enhance its performance. More importantly, we give a new algorithm named "Sphericalized cMCF" to construct a homotopy from a degree one map to a homeomorphism from a unit sphere onto a unit sphere.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+[Full Dissertation here](http://karrywong.github.io/files/Dissertation.pdf)
