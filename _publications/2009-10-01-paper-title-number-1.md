@@ -8,6 +8,6 @@ venue: Proceedings of the John H. Barrett Memorial Lectures held at the Universi
 paperurl: 'https://arxiv.org/abs/2006.07392'
 citation: 'K. Wong, Application of mean curvature flow for surface parametrization; Proceedings of the John H. Barrett Memorial Lectures held at the University of Tennessee, May 29-June 1, 2018.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+This is an expository article describing the conformalized mean curvature flow, originally introduced by Kazhdan, Solomon, and Ben-Chen. We are interested in applying mean curvature flow to surface parametrizations. We discuss our own implementation of their algorithm and some limitations.
 
 [Full paper here](https://arxiv.org/abs/2006.07392)
