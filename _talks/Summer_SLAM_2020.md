@@ -2,7 +2,7 @@
 title: "Summer SLAM: 3D Electron Temperature Measurement of the Nuclear Fusion Hotspot"
 collection: talks
 type: "Talk"
-permalink: /talks/SummerSLAM2020
+permalink: /talks/Summer_SLAM_2020
 venue: "LLNL"
 date: 2020-08-11
 location: "Livermore, California"
