@@ -9,5 +9,5 @@ author_profile: true
 
 Conformalized Mean Curvature Flow (PhD research)
 ======
-Coded in C++ using data structure OpenMesh <br \>
+Coded in C++ using data structure OpenMesh <br />
 [GitHub respository](https://github.com/karrywong/Conformalized-Mean-Curvature-Flow)
