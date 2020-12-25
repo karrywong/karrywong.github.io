@@ -11,8 +11,9 @@ main:
 #  - title: "Teaching"
 #    url: /teaching/    
     
-  - title: "CV"
-    url: /cv/
+  - title: "CV/Bio"
+    url: /files/resume_KaWaiWONG.pdf
+#    url: /cv/
     
 #  - title: "Blog"
 #    url: /year-archive/  
