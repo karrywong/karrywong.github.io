@@ -24,8 +24,10 @@ My contact is < ucdwong [at] ucdavis [dot] edu >.
 
 <!--In parallel, I have been working as a student intern on 3-D electron temperature measurement and x-ray emission tomography of nuclear fusion hotspot at the [National Ignition Facility](https://lasers.llnl.gov) in the [Lawrence Livermore National Laboratory](https://www.llnl.gov) since December 2019. I work with Dr. [Benjamin Bachmann](https://scholar.google.com/citations?user=rpVopGoAAAAJ&hl=en). My work enables me to dive into the field of [high energy density science](https://heds-center.llnl.gov). Here is a 3-minute [SLAM talk](https://youtu.be/m72JuuaUUJI) to summarize my work.-->
  
-Biography ([resume](https://karrywong.github.io/files/resume_kawaiWONG.pdf))
+Biography ([resume](https://karrywong.github.io/files/resume_kawaiWONG.pdf)) - "What makes me unique?"
 ======
+* I studied at a variety of institutions in different countries (Hong Kong, Germany, Israel, and the US). **This **
+
 <!--I completed my M.Sc. at [the Technical University of Munich](https://www.ma.tum.de) in 2015 and B.Sc. at the [Hong Kong University of Science Technology](http://www.math.ust.hk) in 2011. I completed my master's thesis on [optimal surface embedding](https://www.researchgate.net/publication/285206534_Optimal_Isometric_Embeddings_of_surfaces_in_3-dimensional_spaces) at the [Hebrew University of Jerusalem](https://mathematics.huji.ac.il) under the guidance of [Raz Kupferman](https://razkupferman.wixsite.com/mysite). Prior to my graduate studies in the US, I worked in Germany as a software test engineer at Rohde & Schwarz and interned briefly at Siemens. -->
 
 <!--Outside my research work, I am currently a passionate learner of machine learning and data science. I want to explore their potential applications to shape comparison and problems in limited view computed tomography.  -->
