@@ -8,11 +8,21 @@ redirect_from:
   - /about.html
 ---
 
+I am looking for a full-time employment as a software engineer or a data scientist starting from January 2021. I am ready to graduate anytime.
+
+I am an experienced software testing engineer with a PhD in applied mathematics. Highlights:
+1. Proficient in object-oriented programming with Python, C/C++, MATLAB, and have basics in R.
+2. Research on computed tomography and nuclear fusion at Lawrence Livermore National Laboratory
+3. PhD project on computational differential geometry, experience in algorithm development for shape analysis/comparison
+4. Work experience as a software test engineer on 4G(LTE/ LTE-A) technology and 5G (WiFi/WLAN)
+5. Passionate about learning foreign languages and travel around the world: I'm fluent in English, German, Chinese, and speak fairly good in Hebrew too!
+
+My contact is < ucdwong [at] ucdavis [dot] edu >.
+
+
 <!--I am a graduate student in applied mathematics at [University of California, Davis](https://www.math.ucdavis.edu/). My research focuses on computational geometry and topology. I have been working on applying [conformalized mean curvature flow](https://karrywong.github.io/publication/Application_Of_Mean_Curvature_Flow_For_Surface_Parametrizations) to obtain conformal parametrizations of surfaces. My work is part of a larger project on [shape comaprison](https://doi.org/10.1098/rsif.2015.0795). I am fortunate to be advised by [Joel Hass](https://www.math.ucdavis.edu/~hass/) and [Patrice Koehl](https://www.cs.ucdavis.edu/~koehl/index.html).-->
 
 <!--In parallel, I have been working as a student intern on 3-D electron temperature measurement and x-ray emission tomography of nuclear fusion hotspot at the [National Ignition Facility](https://lasers.llnl.gov) in the [Lawrence Livermore National Laboratory](https://www.llnl.gov) since December 2019. I work with Dr. [Benjamin Bachmann](https://scholar.google.com/citations?user=rpVopGoAAAAJ&hl=en). My work enables me to dive into the field of [high energy density science](https://heds-center.llnl.gov). Here is a 3-minute [SLAM talk](https://youtu.be/m72JuuaUUJI) to summarize my work.-->
-
-My contact is < ucdwong [at] ucdavis [dot] edu >.
  
 Biography ([resume](https://karrywong.github.io/files/resume_kawaiWONG.pdf))
 ======
