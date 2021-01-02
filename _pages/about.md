@@ -26,7 +26,11 @@ My contact is < ucdwong [at] ucdavis [dot] edu >.
  
 Biography ([resume](https://karrywong.github.io/files/resume_kawaiWONG.pdf)) - "What makes me unique?"
 ======
-* I studied at a variety of institutions in different countries (Hong Kong, Germany, Israel, and the US). **This **
+* I studied at a variety of institutions in different countries (Hong Kong, Germany, Israel, and the US). *This demonstrates my natural curiosity to understand the world and my strong desire for new opportunities and challenges!*
+
+* I always picked up the local language in the country where I studied and I master it well (e.g. German and Hebrew!) *It shows my drive and innate ability, not only to quickly adapt myself to a new environment, but also to succeed! Knowing many languages is a big plus in the industry and business world!*
+
+* Computational differential geometry is not easy. I show via my math PhD that *I can handle deep technical subjects and that the strong analytical skills I've learned can be applied to other fields!*
 
 <!--I completed my M.Sc. at [the Technical University of Munich](https://www.ma.tum.de) in 2015 and B.Sc. at the [Hong Kong University of Science Technology](http://www.math.ust.hk) in 2011. I completed my master's thesis on [optimal surface embedding](https://www.researchgate.net/publication/285206534_Optimal_Isometric_Embeddings_of_surfaces_in_3-dimensional_spaces) at the [Hebrew University of Jerusalem](https://mathematics.huji.ac.il) under the guidance of [Raz Kupferman](https://razkupferman.wixsite.com/mysite). Prior to my graduate studies in the US, I worked in Germany as a software test engineer at Rohde & Schwarz and interned briefly at Siemens. -->
 
