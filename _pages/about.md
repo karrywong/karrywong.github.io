@@ -11,9 +11,9 @@ redirect_from:
 I am looking for a full-time employment as a software engineer or a data scientist starting from January 2021. I am ready to graduate anytime.
 
 I am an experienced software testing engineer with a PhD in applied mathematics. Highlights:
-1. Proficient in object-oriented programming with Python, C/C++, MATLAB, and have basics in R.
-2. Research on computed tomography and nuclear fusion at Lawrence Livermore National Laboratory
-3. PhD project on computational differential geometry, experience in algorithm development for shape analysis/comparison
+1. Proficient in Python, C/C++, and MATLAB.
+2. Research experience on computed tomography problems related to nuclear fusion at the National Ignition Facility in the Lawrence Livermore National Laboratory
+3. Doctoral research project on computational differential geometry, experience in algorithm development for shape analysis/comparison
 4. Work experience as a software test engineer on 4G(LTE/ LTE-A) technology and 5G (WiFi/WLAN)
 5. Passionate about learning foreign languages and travel around the world: I'm fluent in English, German, Chinese, and speak fairly good in Hebrew too!
 
