@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am looking for a full-time employment as a software engineer or a data scientist starting from January 2021. I am ready to graduate anytime.
+I am looking for a full-time employment as a software engineer or a data scientist starting from February 2021. I am ready to graduate anytime.
 
 I am an experienced software testing engineer with a PhD in applied mathematics. Highlights:
 1. Proficient in Python, C/C++, and MATLAB.
