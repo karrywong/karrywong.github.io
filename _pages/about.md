@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am looking for a full-time employment as a software engineer or a data scientist starting from March 2021. I am ready to graduate anytime.
+I am looking for a full-time employment as a software engineer or a data scientist starting from January 2022. I am ready to graduate anytime.
 
 I am an experienced software testing engineer with a PhD in applied mathematics. Highlights:
 1. Proficient in Python, C/C++, and MATLAB.
 2. Research experience on computed tomography problems related to nuclear fusion at the National Ignition Facility in the Lawrence Livermore National Laboratory
-3. Doctoral research project on computational differential geometry, experience in algorithm development for shape analysis/comparison
-4. Work experience as a software test engineer on 4G(LTE/ LTE-A) technology and 5G (WiFi/WLAN)
+3. Intern experience as a software engineer on additive manufacturing features of commerical CAD/CAM software Fusion360 at Autodesk 
+4. Doctoral research project on computational differential geometry, experience in algorithm development for shape analysis/comparison
 5. Passionate about learning foreign languages and travel around the world: I'm fluent in English, German, Chinese, and speak fairly good in Hebrew too!
 
 My contact is < ucdwong [at] ucdavis [dot] edu >.
