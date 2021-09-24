@@ -8,9 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am looking for a full-time employment as a software engineer or a data scientist starting from January 2022. I am ready to graduate anytime.
-
-I am an experienced software testing engineer with a PhD in applied mathematics. Highlights:
+I am looking for a full-time employment as a software engineer or a data scientist starting from January 2022. 
+I have work experience in software engineering and a PhD in applied mathematics. Highlights:
 1. Proficient in Python, C/C++, and MATLAB.
 2. Research experience on computed tomography problems related to nuclear fusion at the National Ignition Facility in the Lawrence Livermore National Laboratory
 3. Intern experience as a software engineer on additive manufacturing features of commercial CAD/CAM software Fusion360 at Autodesk 
