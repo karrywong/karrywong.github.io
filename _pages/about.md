@@ -9,12 +9,12 @@ redirect_from:
 ---
 
 I am looking for a full-time employment as a software engineer or a data scientist starting from January 2022. 
-I have work experience in software engineering and a PhD in applied mathematics. Highlights:
-1. Proficient in Python, C/C++, and MATLAB.
-2. Research experience on computed tomography problems related to nuclear fusion at the National Ignition Facility in the Lawrence Livermore National Laboratory
-3. Intern experience as a software engineer on additive manufacturing features of commercial CAD/CAM software Fusion360 at Autodesk 
-4. Doctoral research project on computational differential geometry, experience in algorithm development for shape analysis/comparison
-5. Passionate about learning foreign languages and travel around the world: I'm fluent in English, German, Chinese, and speak fairly good in Hebrew too!
+Computational math PhD, avid and competitive coder, and multilingual professional in software engineering and data science. Strong drive and innate ability in facing challenges and to deliver impactful engineering, data, and ML solutions. Highlights:
+1. Strong background in 2D/3D geometry modeling and computational geometry.
+2. Strong understanding of algorithms & data structure with intensive training <https://leetcode.com/karrywong/>.
+3. Multiple industrial internship experiences in procedural & templated-based programming, object-oriented programming, and software development.
+4. Proficient in Python, C/C++, MATLAB, and have basics in R, Fortran. See Github.
+5. Fluent – English, German, Mandarin; Native – Cantonese; Conversational – Hebrew.
 
 My contact is < ucdwong [at] ucdavis [dot] edu >.
 
@@ -23,7 +23,7 @@ My contact is < ucdwong [at] ucdavis [dot] edu >.
 
 <!--In parallel, I have been working as a student intern on 3-D electron temperature measurement and x-ray emission tomography of nuclear fusion hotspot at the [National Ignition Facility](https://lasers.llnl.gov) in the [Lawrence Livermore National Laboratory](https://www.llnl.gov) since December 2019. I work with Dr. [Benjamin Bachmann](https://scholar.google.com/citations?user=rpVopGoAAAAJ&hl=en). My work enables me to dive into the field of [high energy density science](https://heds-center.llnl.gov). Here is a 3-minute [SLAM talk](https://youtu.be/m72JuuaUUJI) to summarize my work.-->
  
-Biography ([resume](https://karrywong.github.io/files/resume_kawaiWONG.pdf)) - "What makes me unique?"
+Biography ([resume](https://karrywong.github.io/files/CV_kawaiWONG.pdf)) - "What makes me unique?"
 ======
 * I studied at a variety of institutions in different countries (Hong Kong, Germany, Israel, and the US). *This demonstrates my natural curiosity to understand the world and my strong desire for new opportunities and challenges!*
 
