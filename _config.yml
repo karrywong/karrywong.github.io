@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ka Wai (Karry) Wong"
 title_separator          : "-"
 name                     : &name "Karry Wong"
-description              : &description "Computational math PhD, avid and competitive coder, and multilingual professional in software engineering and data science. Strong drive and innate ability in facing challenges and to deliver impactful engineering, data, and ML solutions."
+description              : &description "My PhD is in applied math and my passion lies in software engineering & data science!"
 url                      : https://karrywong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "karrywong/academicpages.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Karry Wong"
   avatar           : "profile.png"
-  bio              : "My PhD is in applied math and my passion lies in software engineering & data science!"
+  bio              : "Computational math PhD, avid and competitive coder, and multilingual professional in software engineering and data science. Strong drive and innate ability in facing challenges and to deliver impactful engineering, data, and ML solutions."
   location         : "Livermore, California"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -115,6 +115,7 @@ author:
   xing             :
   youtube          : #"https://www.youtube.com/channel/UC9LHf0D7yJsdSkRjFJKdk2g/"
   wikipedia        :
+  leetcode         : "https://leetcode.com/karrywong/"
 
 
 # Reading Files
