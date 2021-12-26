@@ -23,7 +23,7 @@ My contact is < ucdwong [at] ucdavis [dot] edu >.
 
 <!--In parallel, I have been working as a student intern on 3-D electron temperature measurement and x-ray emission tomography of nuclear fusion hotspot at the [National Ignition Facility](https://lasers.llnl.gov) in the [Lawrence Livermore National Laboratory](https://www.llnl.gov) since December 2019. I work with Dr. [Benjamin Bachmann](https://scholar.google.com/citations?user=rpVopGoAAAAJ&hl=en). My work enables me to dive into the field of [high energy density science](https://heds-center.llnl.gov). Here is a 3-minute [SLAM talk](https://youtu.be/m72JuuaUUJI) to summarize my work.-->
  
-Biography ([resume](https://karrywong.github.io/files/CV_kawaiWONG.pdf)) - "What makes me unique?"
+Biography ([CV](https://karrywong.github.io/files/CV_kawaiWONG.pdf)) - "What makes me unique?"
 ======
 * I studied at a variety of institutions in different countries (Hong Kong, Germany, Israel, and the US). *This demonstrates my natural curiosity to understand the world and my strong desire for new opportunities and challenges!*
 
