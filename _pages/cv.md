@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Available in PDF format.](https://karrywong.github.io/files/resume_kawaiWONG.pdf)
+[Available in PDF format.](https://karrywong.github.io/files/CV_kawaiWONG.pdf)
 
 <!-- Education
 ======
