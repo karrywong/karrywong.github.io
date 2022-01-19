@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am looking for a full-time employment as a software engineer or a data scientist starting from February 2022. 
+I am looking for a full-time employment as a software engineer or a data scientist starting from June 2022. 
 Computational math PhD, avid and competitive coder, and multilingual professional in software engineering and data science. Strong drive and innate ability in facing challenges and to deliver impactful engineering, data, and ML solutions. Highlights:
 1. Strong background in 2D/3D geometry modeling and computational geometry.
 2. Strong understanding of algorithms & data structure with intensive training <https://leetcode.com/karrywong/>.
