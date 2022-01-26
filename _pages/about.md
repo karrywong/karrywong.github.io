@@ -9,19 +9,14 @@ redirect_from:
 ---
 
 I am looking for a full-time employment as a software engineer or a data scientist starting from February 2022. 
-Computational math PhD, avid and competitive coder, and multilingual professional in software engineering and data science. Strong drive and innate ability in facing challenges and to deliver impactful engineering, data, and ML solutions. Highlights:
+Versatile and collaborative software engineer utilizing 6+ years in science and engineering to deliver impactful algorithm and data structure solutions in geometry, simulation, and machine learning. Applied math PhD, avid and competitive coder, and multilingual professional in software engineering and data science. Highlights:
 1. Strong background in 2D/3D geometry modeling and computational geometry.
-2. Strong understanding of algorithms & data structure with intensive training <https://leetcode.com/karrywong/>.
-3. Multiple industrial internship experiences in procedural & templated-based programming, object-oriented programming, and software development.
-4. Proficient in Python, C/C++, MATLAB, and have basics in R, Fortran. See Github.
-5. Fluent – English, German, Mandarin; Native – Cantonese; Conversational – Hebrew.
+2. Programming Languages: Python (advanced), C++ (advanced), MATLAB (expert), R, and Fortran
+3. Technical Skills: Object-oriented programming, machine learning (TensorFlow & PyTorch)
+4. Strong understanding of algorithms & data structure with intensive training <https://leetcode.com/karrywong/>.
+5. Languages: English, German, Mandarin (fluent), Cantonese (native), and Hebrew (conversational)
 
 My contact is < ucdwong [at] ucdavis [dot] edu >.
-
-
-<!--I am a graduate student in applied mathematics at [University of California, Davis](https://www.math.ucdavis.edu/). My research focuses on computational geometry and topology. I have been working on applying [conformalized mean curvature flow](https://karrywong.github.io/publication/Application_Of_Mean_Curvature_Flow_For_Surface_Parametrizations) to obtain conformal parametrizations of surfaces. My work is part of a larger project on [shape comaprison](https://doi.org/10.1098/rsif.2015.0795). I am fortunate to be advised by [Joel Hass](https://www.math.ucdavis.edu/~hass/) and [Patrice Koehl](https://www.cs.ucdavis.edu/~koehl/index.html).-->
-
-<!--In parallel, I have been working as a student intern on 3-D electron temperature measurement and x-ray emission tomography of nuclear fusion hotspot at the [National Ignition Facility](https://lasers.llnl.gov) in the [Lawrence Livermore National Laboratory](https://www.llnl.gov) since December 2019. I work with Dr. [Benjamin Bachmann](https://scholar.google.com/citations?user=rpVopGoAAAAJ&hl=en). My work enables me to dive into the field of [high energy density science](https://heds-center.llnl.gov). Here is a 3-minute [SLAM talk](https://youtu.be/m72JuuaUUJI) to summarize my work.-->
  
 Biography ([CV](https://karrywong.github.io/files/CV_kawaiWONG.pdf)) - "What makes me unique?"
 ======
