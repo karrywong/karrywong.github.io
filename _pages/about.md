@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am looking for a full-time employment as a software engineer or a data scientist starting from February 2022. 
+I am looking for a full-time employment as a software engineer starting from February 2022. 
 
 Background and Core Proficiencies
 ======
