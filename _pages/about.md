@@ -9,6 +9,9 @@ redirect_from:
 ---
 
 I am looking for a full-time employment as a software engineer or a data scientist starting from February 2022. 
+
+Background and Core Proficiencies
+======
 Versatile and collaborative software engineer utilizing 6+ years in science and engineering to deliver impactful algorithm and data structure solutions in geometry, simulation, and machine learning. Applied math PhD, avid and competitive coder, and multilingual professional in software engineering and data science. Highlights:
 1. Strong background in 2D/3D geometry modeling and computational geometry.
 2. Programming Languages: Python (advanced), C++ (advanced), MATLAB (expert), R, and Fortran
