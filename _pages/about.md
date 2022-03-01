@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-OI am looking for a full-time employment as a software engineer starting from March 2022. 
+I am looking for a full-time employment as a software engineer starting from March 2022. 
 
 Background and Core Proficiencies
 ======
