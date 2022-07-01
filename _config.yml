@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ka Wai (Karry) Wong"
 title_separator          : "-"
 name                     : &name "Karry Wong"
-description              : &description "Visiting Researcher at Reality Labs | ex-LLNL Postdoc | Geometry Enthusiast"
+description              : &description "Visiting Researcher at Meta Reality Labs | ex-LLNL Postdoc | Geometry Enthusiast"
 url                      : https://karrywong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "karrywong/academicpages.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Karry Wong"
   avatar           : "avatar1.png"
-  bio              : "Visiting Researcher at Reality Labs | ex-LLNL Postdoc | Geometry Enthusiast"
+  bio              : "Visiting Researcher at Meta Reality Labs | ex-LLNL Postdoc | Geometry Enthusiast"
   location         : "Burlingame, California"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
