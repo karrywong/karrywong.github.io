@@ -10,7 +10,7 @@ redirect_from:
 
 Background and Core Proficiencies
 ======
-Versatile and collaborative software engineer utilizing 3 years in tech and research to deliver impactful algorithm and data structure solutions in geometry, simulation, and machine learning. Applied math PhD, avid coder, and multilingual professional in software engineering and data science. Highlights:
+Versatile and collaborative software engineer utilizing 3 years in tech and research to deliver impactful algorithm and data structure solutions in 3D geometry and computer vision. Applied math PhD, avid coder, and multilingual professional in software engineering and data science. Highlights:
 1. Strong background in 2D/3D geometry modeling and computational geometry.
 2. Programming Languages: Python, C++, MATLAB, SQL (basic)
 3. Strong understanding of algorithms & data structure with intensive training <https://leetcode.com/karrywong/>.
