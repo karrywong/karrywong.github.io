@@ -20,7 +20,7 @@ My contact is < ucdwong [at] ucdavis [dot] edu >.
  
 Biography ([CV](https://karrywong.github.io/files/CV_kawaiWONG.pdf)) - "What makes me unique?"
 ======
-* I first worked at a US national lab on 3D reconstruction algorithm to further nuclear fusion research, then at Meta Reality Labs on 3D mapping algorithm in computer vision. I grew fast and thrived in both environments. *This demonstrates my versatile engineering skills, great adaptability, and my strong desire for new opportunities and challenges!*
+* I first worked at a US national lab on 3D reconstruction algorithm to further nuclear fusion research, then at Meta Reality Labs on 3D mapping algorithm in computer vision for next-generation AR/VR devices. I grew fast and thrived in both environments. *This demonstrates my versatile engineering skills, great adaptability, and my strong desire for new opportunities and challenges!*
 
 * I always picked up the local language in the country where I studied and I master it well (e.g. German and Hebrew!) *It shows my drive and innate ability, not only to quickly adapt myself to a new environment, but also to succeed! Knowing many languages is a big plus in the industry and business world!*
 
