@@ -8,22 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-<!--I am looking for a full-time software engineer role in California starting from March 2022.-->
-
 Background and Core Proficiencies
 ======
-Versatile and collaborative software engineer utilizing 6+ years in science and engineering to deliver impactful algorithm and data structure solutions in geometry, simulation, and machine learning. Applied math PhD, avid and competitive coder, and multilingual professional in software engineering and data science. Highlights:
+Versatile and collaborative software engineer utilizing 3 years in tech and research to deliver impactful algorithm and data structure solutions in geometry, simulation, and machine learning. Applied math PhD, avid coder, and multilingual professional in software engineering and data science. Highlights:
 1. Strong background in 2D/3D geometry modeling and computational geometry.
-2. Programming Languages: Python (advanced), C++ (advanced), MATLAB (expert), R, and Fortran
-3. Technical Skills: Object-oriented programming, machine learning (TensorFlow & PyTorch)
-4. Strong understanding of algorithms & data structure with intensive training <https://leetcode.com/karrywong/>.
-5. Languages: English, German, Mandarin (fluent), Cantonese (native), and Hebrew (conversational)
+2. Programming Languages: Python, C++, MATLAB, SQL (basic)
+3. Strong understanding of algorithms & data structure with intensive training <https://leetcode.com/karrywong/>.
+4. Languages: English, German, Mandarin (fluent), Cantonese (native), and Hebrew (conversational)
 
 My contact is < ucdwong [at] ucdavis [dot] edu >.
  
 Biography ([CV](https://karrywong.github.io/files/CV_kawaiWONG.pdf)) - "What makes me unique?"
 ======
-* I studied at a variety of institutions in different countries (Hong Kong, Germany, Israel, and the US). *This demonstrates my natural curiosity to understand the world and my strong desire for new opportunities and challenges!*
+* I first worked at a US national lab on 3D reconstruction algorithm to further nuclear fusion research, then at Meta Reality Labs on 3D mapping algorithm in computer vision. I grew fast and thrived in both environments. *This demonstrates my versatile engineering skills, great adaptability, and my strong desire for new opportunities and challenges!*
 
 * I always picked up the local language in the country where I studied and I master it well (e.g. German and Hebrew!) *It shows my drive and innate ability, not only to quickly adapt myself to a new environment, but also to succeed! Knowing many languages is a big plus in the industry and business world!*
 
