@@ -7,11 +7,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I am currently a Visiting Researcher with focus on 3D Mapping at Meta Reality Labs.
 
 Background and Core Proficiencies
 ======
-Versatile and collaborative software engineer utilizing 3 years in tech and research to deliver impactful algorithm and data structure solutions in 3D geometry and computer vision. Applied math PhD, avid coder, and multilingual professional in software engineering and data science. Highlights:
-1. Strong background in 2D/3D geometry modeling and computational geometry.
+Versatile and collaborative software engineer utilizing 3 years in tech and research to deliver impactful algorithm and data structure solutions in 3D geometry and computer vision used in Augmented Reality and Virtual Reality (AR/VR). Applied math PhD, avid coder, and multilingual professional in software engineering. Highlights:
+1. Strong background in 2D/3D geometry modeling and computational geometry; software engineering experience in AR/VR at Meta Reality Labs
 2. Programming Languages: Python, C++, MATLAB, SQL (basic)
 3. Strong understanding of algorithms & data structure with intensive training <https://leetcode.com/karrywong/>.
 4. Languages: English, German, Mandarin (fluent), Cantonese (native), and Hebrew (conversational)
@@ -20,7 +21,7 @@ My contact is < ucdwong [at] ucdavis [dot] edu >.
  
 Biography ([CV](https://karrywong.github.io/files/CV_kawaiWONG.pdf)) - "What makes me unique?"
 ======
-* I first worked at a US national lab on 3D reconstruction algorithm to further nuclear fusion research, then at Meta Reality Labs on 3D mapping algorithm in computer vision for next-generation AR/VR devices. I grew fast and thrived in both environments. *This demonstrates my versatile engineering skills, great adaptability, and my strong desire for new opportunities and challenges!*
+* I first worked at a US national lab on 3D reconstruction algorithm to further nuclear fusion research, then at Meta Reality Labs on 3D mapping algorithms in computer vision, e.g. for large-scale 3D reconstruction, user localization, structure from motion etc, on next-generation AR/VR devices. I grew fast and thrived in both environments. *This demonstrates my versatile engineering skills, great adaptability, and my strong desire for new opportunities and challenges!*
 
 * I always picked up the local language in the country where I studied and I master it well (e.g. German and Hebrew!) *It shows my drive and innate ability, not only to quickly adapt myself to a new environment, but also to succeed! Knowing many languages is a big plus in the industry and business world!*
 
