@@ -11,9 +11,9 @@ I am currently a Visiting Researcher with focus on 3D Mapping at Meta Reality La
 
 Background and Core Proficiencies
 ======
-Versatile and collaborative software engineer utilizing 3 years in tech and research to deliver impactful algorithm and data structure solutions in 3D geometry and computer vision used in Augmented Reality and Virtual Reality (AR/VR). Applied math PhD, avid coder, and multilingual professional in software engineering. Highlights:
+Versatile and collaborative software engineer utilizing 3 years in tech and research to deliver impactful algorithm and data structure solutions in machine learning and computer vision used in Augmented Reality and Virtual Reality (AR/VR). Applied math PhD, avid coder, and multilingual professional in software engineering. Highlights:
 1. Strong background in 2D/3D geometry modeling and computational geometry; software engineering experience in AR/VR at Meta Reality Labs
-2. Programming Languages: Python, C++, MATLAB, SQL (basic)
+2. Programming Languages: Python, C++ (intermediate), MATLAB, SQL (basic)
 3. Strong understanding of algorithms & data structure with intensive training <https://leetcode.com/karrywong/>.
 4. Languages: English, German, Mandarin (fluent), Cantonese (native), and Hebrew (conversational)
 
