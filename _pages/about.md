@@ -7,11 +7,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a Visiting Researcher with focus on 3D Mapping at Meta Reality Labs.
+I am currently a software engineer prototyping for the display of next-generation AR glasses at Meta Reality Labs.
 
 Background and Core Proficiencies
 ======
 Versatile and collaborative software engineer utilizing 3 years in tech and research to deliver impactful algorithm and data structure solutions in machine learning and computer vision used in Augmented Reality and Virtual Reality (AR/VR). Applied math PhD, avid coder, and multilingual professional in software engineering. Highlights:
+0. Developing software to support firmware and hardware in AR glasses on display, optics, and waveguide technologies that support prototypes’ holographic display
 1. Strong background in 2D/3D geometry modeling and computational geometry; software engineering experience in AR/VR at Meta Reality Labs
 2. Programming Languages: Python, C++ (intermediate), MATLAB, SQL (basic)
 3. Strong understanding of algorithms & data structure with intensive training <https://leetcode.com/karrywong/>.
