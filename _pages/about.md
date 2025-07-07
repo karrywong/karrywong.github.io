@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a software engineer prototyping for the display of next-generation AR glasses at Meta Reality Labs.
+I am currently a software engineer prototyping next-generation AR glasses at Meta Reality Labs.
 
 Background and Core Proficiencies
 ======
